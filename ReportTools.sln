@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportTools", "ReportTools.csproj", "{494D875A-48C4-4712-A398-ADFA744F5330}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{D61573C8-DF0A-4749-A3B6-8698E3CE119B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494D875A-48C4-4712-A398-ADFA744F5330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494D875A-48C4-4712-A398-ADFA744F5330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494D875A-48C4-4712-A398-ADFA744F5330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494D875A-48C4-4712-A398-ADFA744F5330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61573C8-DF0A-4749-A3B6-8698E3CE119B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61573C8-DF0A-4749-A3B6-8698E3CE119B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61573C8-DF0A-4749-A3B6-8698E3CE119B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61573C8-DF0A-4749-A3B6-8698E3CE119B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1584BADB-1CF4-4865-B738-D2C75562D936}
+	EndGlobalSection
+EndGlobal

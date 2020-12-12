@@ -1,0 +1,34 @@
+.ant-btn-primary.Start
+{
+    position: relative;
+    left: 201px;
+
+}
+.ant-form
+{
+    height:384px
+}
+.ant-btn.history_btn
+{
+    position: relative;
+    left: 290px;
+
+}
+
+.ant-btn.compara_btn
+{
+    position: relative;
+    left: 320px;
+
+}
+.ant-btn.clean_btn
+{
+    position: relative;
+    left: 340px;
+
+}
+
+.ant-btn.comparaData_btn
+{ 
+    left: 260px;
+}
